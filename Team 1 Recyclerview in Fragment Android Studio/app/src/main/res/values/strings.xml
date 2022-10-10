@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Team 1 Recyclerview in Fragment Android Studio</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="news_a">More than eight in 10 kids under the age of 17 have antibodies from a past COVID-19 infection, according to new data from the Centers for Disease Control and Prevention. The analysis shows that as of August, 86% of children between 6 months and 17-years-old have had at least one COVID infection since the pandemic began. That number is an increase from data in April, when the public health agency found 75% of people under the age of 17 had been infected with the virus.</string>
+    <string name="news_b">Hanoi (VNA) – Vietnam has recorded the world’s highest percentage of its people satisfied with the government’s response to the COVID-19 pandemic, a recent survey shows. The survey, conducted from February 24 to April 14 by the Latana research firm in collaboration with the Alliance of Democracies, covered more than 50,000 people from 53 countries and territories which make up over three-fourths of the global population. It indicated that most of people around the world are becoming less satisfied with their governments’ response to COVID-19. The global average satisfaction is 58 percent. Vietnam tops the list with 96 percent, followed by China (93 percent). The average satisfaction in Asia, 75 percent, is significantly higher than in Europe (45 percent) and Latin America (42 percent), according to the survey.</string>
+    <string name="news_c">Following our comfortable Europa League win against Bodo/Glimt in the week, our Gunners returned to London Colney to prepare for our next test against Liverpool. Our club photographer was on site to capture our preparations on the training ground.</string>
+    <string name="news_d">People will be subject to travel around or face restrictions depending on the status of the app. Vietnam will impose digital travel permits to people in the time to come, Prime Minister Pham Minh Chinh has asked authorized agencies.</string>
+    <string name="news_e">Vietnam ranks No.1 on the list of the 25 countries with the fastest post-pandemic recovery of the domestic aviation market. Local traffic experts have expressed concerns about the need to raise airport capacity due to pressure on the current infrastructure, which mainly puts on the two biggest airports: Noi Bai in Hanoi and Tan Son Nhat in Ho Chi Minh City.</string>
+    <string name="news_f">Some details in the film misrepresented the truth of the Vietnam War that involved South Korean forces in the mid-21st century. Subscription-based streaming service provider Netflix has been ordered to remove “Little Women” series from its library in Vietnam due to some content distorting Vietnamese history.</string>
+    <string name="news_g">Climate impacts in the agriculture sector might make many people fall back into poverty. Vietnam’s agriculture, more than any other sector, has been suffering huge and obvious losses caused by climate change, the United Nations Development Program (UNDP) has said.</string>
+    <string name="news_h">Vietnam said the information related to its postulation to the Human Rights Council is untrue and biased. Vietnam has turned down accusations of the country’s situation while running for the United Nations Human Rights Council (UNHRC) in the 2023-2025 tenure.</string>
+    <string name="news_i">Vietnam has regained the loss of momentum resulting from Covid-19 as the Human Development Index declined globally for two years in a row for the first time in the 32-year history of the indicator. Vietnam, unlike the majority of emerging nations, has managed to maintain economic growth even through the most trying times of the pandemic. Professor Jonathan Pincus, UNDP Senior Economist, shared at the launch of the 2022 UNDP Human Development Report (HDR) entitled “Uncertain Times, Unsettled Lives” in Hanoi on September 9. The theme of this year’s report is the multiple crises facing the world and the collective capacity to mitigate the impact on human development. Largely because of the pandemic, the Human Development Index has declined globally for two years in a row for the first time in the 32-year history of the index.</string>
+    <string name="news_j">The working group will enable both sides to further combat the climate crisis, which is defined as a pillar in the relationship. The US-Vietnam Climate Change Working Group will be launched prior to the 2022 United Nations Climate Change Conference (COP27).</string>
+
+    <!-- Headings -->
+    <string name="head_1">86% of kids under 17 have antibodies from a past COVID infection, CDC data shows</string>
+    <string name="head_2">Vietnam outperforms in people’s satisfaction with gov’t response to COVID-19</string>
+    <string name="head_3">Gunners gear up for Liverpool test</string>
+    <string name="head_4">Today’s Covid News: Vietnam to impose digital travel permit</string>
+    <string name="head_5">Vietnam needs to expand airport network to relieve pressure on infrastructure</string>
+    <string name="head_6">Vietnam demands removal of “Little Women” from Netflix</string>
+    <string name="head_7">Vietnam’s agriculture most vulnerable to climate change: UNDP</string>
+    <string name="head_8">Vietnam rejects accusations while running for UN Human Rights Council</string>
+    <string name="head_9">Vietnam reclaims Human Development momentum despite pandemic: UNDP</string>
+    <string name="head_10">Vietnam, US to establish climate change working group</string>
+</resources>
