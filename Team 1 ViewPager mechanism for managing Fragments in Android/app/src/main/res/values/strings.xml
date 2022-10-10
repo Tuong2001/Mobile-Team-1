@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Team 1 ViewPager mechanism for managing Fragments in Android</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="search_fragment">Search Fragment</string>
+    <string name="settings_fragment">Settings Fragment</string>
+</resources>
